@@ -6,11 +6,11 @@
 
 [(2025) The Effect of Health Shocks on Family Unit’s Income:
  A Staggered DiD Estimation on American
- Households from 1997-2015](/pdf/sample_presentation.pdf)
+ Households from 1997-2015](/pdf/The_effect_of_Health_Shocks__on_Family_Unit_s_income__A_staggered_DiD_estimation_on_American_households_from_1997_2015_revised.pdf)
 <img src="images/Micro(p)_preview.PNG?raw=true"/>
 
 ---
-[(2024) Forecasting the energy consumption for Aarhus](/sample_page)
+[(2024) Forecasting the energy consumption for Aarhus](pdf/Forecast(P)EnergyAarhus.pdf)
 <img src="images/Forecast(P)_preview.PNG?raw=true"/>
 
 ---
@@ -19,8 +19,8 @@
 
 - [The Effect of Health Shocks on Family Unit’s Income:
  A Staggered DiD Estimation on American
- Households from 1997-2015](http://example.com/)
-- [Forecasting the energy consumption for Aarhus](http://example.com/)
+ Households from 1997-2015](/pdf/The_effect_of_Health_Shocks__on_Family_Unit_s_income__A_staggered_DiD_estimation_on_American_households_from_1997_2015_revised.pdf)
+- [Forecasting the energy consumption for Aarhus](pdf/Forecast(P)EnergyAarhus.pdf)
 
 ---
 

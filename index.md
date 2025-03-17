@@ -4,26 +4,23 @@
 
 ### Project previews 
 
-[Project 1 Title](/sample_page)
-<img src="images/Forecast(P)EnergyAarhus.png?raw=true"/>
+[Forecasting the energy consumption for Aarhus](/sample_page)
+<img src="images/Forecast(P)_preview.PNG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[The Effect of Health Shocks on Family Unit’s Income:
+ A Staggered DiD Estimation on American
+ Households from 1997-2015](/pdf/sample_presentation.pdf)
 <img src="images/Micro(p)_preview.PNG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+### Project PDF's
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Forecasting the energy consumption for Aarhus](http://example.com/)
+- [The Effect of Health Shocks on Family Unit’s Income:
+ A Staggered DiD Estimation on American
+ Households from 1997-2015](http://example.com/)
 
 ---
 

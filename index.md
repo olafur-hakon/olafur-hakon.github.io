@@ -2,7 +2,7 @@
 
 ---
 
-### Project previews 
+### Recent projects 
 
 [(2025) The Effect of Health Shocks on Family Unit’s Income:
  A Staggered DiD Estimation on American

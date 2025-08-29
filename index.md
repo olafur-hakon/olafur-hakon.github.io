@@ -11,7 +11,7 @@
 
 ---
 [(2024) Forecasting the energy consumption for Aarhus](pdf/Forecast(P)EnergyAarhus.pdf)
-<img src="images/Forecast(P)_preview.PNG?raw=true"/>
+<img src="images/Collage-Forecast.PNG?raw=true"/>
 
 ---
 

@@ -4,9 +4,9 @@
 
 ### Recent projects 
 
- [(2025) Universal Admission Exams and Changes in Selective U.S. College Enrollment:
+ [(2025) Thesis Defence - Universal Admission Exams and Changes in Selective U.S. College Enrollment:
  Evidence from a State-Level Synthetic Control Analysis](/pdf/Master_Thesis_Presentation_Slides.pdf)
- <img src="images/Collage-HealthShocks.PNG?raw=true"/>
+ <img src="images/Collage-MasterThesis.PNG?raw=true"/>
 
 [(2025) The Effect of Health Shocks on Family Unit’s Income:
  A Staggered DiD Estimation on American

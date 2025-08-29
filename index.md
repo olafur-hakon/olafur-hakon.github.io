@@ -18,7 +18,7 @@
 <img src="images/Collage-Forecast.PNG?raw=true"/>
 
 ---
-[(2023) Machine Learning Methods - Predicting Purchase Variable Using Various ML Classification Methods]
+[(2023) Machine Learning Methods - Predicting Purchase Variable Using Various ML Classification Methods](pdf/MachineLearningCompulsary_assignmentP3.pdf)
 
 ---
 
